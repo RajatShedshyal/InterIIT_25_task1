@@ -1,0 +1,4 @@
+# Virtual environments
+venv/
+.venv/
+what_i_am_doing.txt
