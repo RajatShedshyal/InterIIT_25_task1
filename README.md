@@ -6,8 +6,9 @@ With it, you can:
 
 - Ask natural questions like:
   - *“Tell me about Tesla stocks”*  
-  - *“What was the opening and closing price of Apple yesterday?”*  
+  - *“can u get me stock details like opening and closing of tesla stocks? → how did u do it?”*  
   - *“Summarize recent news on Microsoft and its stock trend.”*  
+  - *"analye recent stock deta of tesla, and news about recnet tesla car stock and tell me market insights"*
 - Get **AI-generated trading hypotheses** (LONG/SHORT/WATCH) with confidence scores, rationale, and risk factors, shown right beside your research chat.
 
 ---
