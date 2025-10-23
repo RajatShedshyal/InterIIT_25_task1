@@ -13,6 +13,9 @@ With it, you can:
 
 ---
 
+## 📺 Demo Video
+[▶️ Watch the demo](./demo_video_compressed.mp4)
+
 ## 🚀 How to use
 
 1. **Run the live data ingestor**:  
