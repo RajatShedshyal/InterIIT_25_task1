@@ -122,18 +122,6 @@ py -m venv .venv
 pip install -U pip
 pip install -r requirements.txt
 ```
-
-**requirements.txt** (starter):
-```txt
-alpaca-py>=0.29.0
-pandas>=2.2.0
-python-dotenv>=1.0.1
-pytz>=2024.1
-streamlit>=1.36.0
-langchain>=0.2.15
-langchain-google-genai>=2.0.0
-```
-
 ---
 
 ## ▶️ Running the system
